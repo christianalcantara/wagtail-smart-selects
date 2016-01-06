@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: wagtail-modeltranslation
+Version: 1.2.0
+Summary: Django application to handle chained model fields.
+Home-page: https://github.com/infoportugal/wagtail-smart-selects
+Author: Rui Martins
+Author-email: ...
+License: New BSD
+Description: Django application to handle chained model fields.
+Platform: UNKNOWN
+Keywords: django wagtail translation i18n
